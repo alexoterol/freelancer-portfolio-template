@@ -1,3 +1,6 @@
+const serviceId = 'service_a12gpbs';
+const templateId = 'template_nmzglff';
+const apikey = 'sDziwdQK5i8m2E_Aw';
 
 // Inicializar emailjs una sola vez
 emailjs.init(apikey);
